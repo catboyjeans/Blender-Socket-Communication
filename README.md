@@ -1,0 +1,3 @@
+# Blender-Socket-Communication
+## Blender implementation with Matlab/Simulink for data visualization purposes
+#### Work still in process, patiance is adviced...
